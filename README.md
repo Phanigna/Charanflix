@@ -1,1 +1,1 @@
-# CharanFlix Backend (Node.js + Express)
+# CharanFlix Frontend (React)
